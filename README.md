@@ -12,7 +12,7 @@ This project uses Colorado Board of Election data from a recent election to comp
 - Software: Python 3.7.6 & VS Code 1.62.3
 
 # Election Audit Results
-!(Election Results)[Resources/election_results.png]
+![Election Results](Resources/election_results.png)
 The results of the election analysis were as follows:
 - There were a total of 369,711 votes cast in the election
 - Votes were gathered from the following counties including their voting turnout:
